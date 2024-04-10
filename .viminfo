@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :q
-|2,0,1712778372,,"q"
+|2,0,1712779831,,"q"
 :w
 |2,0,1712778164,,"w"
 :e
@@ -29,28 +29,50 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/.ssh/id_ed25519.pub
-|4,48,1,0,1712778372,"~/.ssh/id_ed25519.pub"
-'1  2  19  ~/.ssh/config
-|4,49,2,19,1712778166,"~/.ssh/config"
+'0  1  0  ~/test
+|4,48,1,0,1712779831,"~/test"
+'1  1  0  ~/.ssh/id_ed25519.pub
+|4,49,1,0,1712778372,"~/.ssh/id_ed25519.pub"
+'2  2  19  ~/.ssh/config
+|4,50,2,19,1712778166,"~/.ssh/config"
 
 # Jumplist (newest first):
+-'  1  0  ~/test
+|4,39,1,0,1712779831,"~/test"
+-'  1  0  ~/.ssh/id_ed25519.pub
+|4,39,1,0,1712778372,"~/.ssh/id_ed25519.pub"
 -'  1  0  ~/.ssh/id_ed25519.pub
 |4,39,1,0,1712778372,"~/.ssh/id_ed25519.pub"
 -'  2  19  ~/.ssh/config
 |4,39,2,19,1712778166,"~/.ssh/config"
 -'  2  19  ~/.ssh/config
 |4,39,2,19,1712778166,"~/.ssh/config"
+-'  2  19  ~/.ssh/config
+|4,39,2,19,1712778166,"~/.ssh/config"
+-'  2  19  ~/.ssh/config
+|4,39,2,19,1712778166,"~/.ssh/config"
 -'  3  16  ~/.ssh/config
 |4,39,3,16,1712778137,"~/.ssh/config"
 -'  3  16  ~/.ssh/config
 |4,39,3,16,1712778137,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1712778137,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1712778137,"~/.ssh/config"
+-'  1  0  ~/.ssh/config
+|4,39,1,0,1712778102,"~/.ssh/config"
+-'  1  0  ~/.ssh/config
+|4,39,1,0,1712778102,"~/.ssh/config"
 -'  1  0  ~/.ssh/config
 |4,39,1,0,1712778102,"~/.ssh/config"
 -'  1  0  ~/.ssh/config
 |4,39,1,0,1712778102,"~/.ssh/config"
 
 # History of marks within files (newest to oldest):
+
+> ~/test
+	*	1712779828	0
+	"	1	0
 
 > ~/.ssh/id_ed25519.pub
 	*	1712778369	0
